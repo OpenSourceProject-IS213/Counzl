@@ -6,7 +6,7 @@ Our motivation behind this project is to learn more about golang development for
 
 ## Contribute
 You can contribute to our project right here on GitHub! 
-Follow our [contributing guideline](https://github.com/BadNameException/Counzl/blob/master/CONTRIBUTING.MD) to get started.
+Follow our [contributing guideline](https://github.com/OpenSourceProject-IS213/Counzl/blob/master/CONTRIBUTING.MD) to get started.
 
 ## Credits
 Give proper credits. This could be a link to any repo which inspired you to build this project, any blogposts or links to people who contrbuted in this project. 
@@ -32,11 +32,10 @@ First of all, thanks to all the developers that contributed to the git repositor
 * [Tidwall's BuntDB for database tool](https://github.com/tidwall/buntdb) <br>
 * [Abiosoft's iShell for CLI](https://github.com/abiosoft/ishell)<br>
 * [Golang's bcrypt package for password hashing](golang.org/x/crypto/bcrypt)<br>
-* [Golang's terminal package for invisible password input]()
 
 ## System architecture
 The system architecture for our program is quite simple. It can appear a little bit perplex, but this is because we use UH-IaaS to host the server.  
-![System Architecture](https://github.com/BadNameException/Counzl/blob/master/sys_architecture2.jpg)
+![System Architecture](https://github.com/OpenSourceProject-IS213/Counzl/blob/master/sys_architecture2.jpg)
 
 ## Our own 'Utilities' package 
 This package consists of 'homemade' functions that we have realized were going to be applied in the project more than once.
